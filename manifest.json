@@ -1,6 +1,6 @@
 {
     "name": "Parigo",
-    "version": "1.0",
+    "version": "0.0.0.1",
     "description": "Le site du Parisien débloqué",
     "manifest_version": 2,
     "permissions": ["activeTab", "declarativeContent", "storage"],
