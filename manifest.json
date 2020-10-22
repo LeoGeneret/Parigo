@@ -3,7 +3,7 @@
     "version": "0.0.0.1",
     "description": "Le site du Parisien débloqué",
     "manifest_version": 2,
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "permissions": ["activeTab", "declarativeContent"],
     "background": {
         "scripts": ["background.js"],
         "persistent": false
