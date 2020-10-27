@@ -14,7 +14,7 @@ Go to a blurred article on leparisien.fr, click on the extension icon then on 'D
 ## Installation
 ##### **FRANCAIS**
  1. **Téléchargez et décompressez** la dernière version de Parigo depuis [cette page](https://github.com/LeoGeneret/Parigo/releases/).
- 2. Sur **Chrome**, accedez à `chrome://extensions/` et activez le **Mode Développeur** en haut à gauche.
+ 2. Sur **Chrome**, accedez à `chrome://extensions/` et activez le **Mode Développeur** en haut à droite.
  3. Cliquez sur **Chargez l'extension non empaquetée** et sélectionnez le fichier décompressé.
  4. Depuis la barre d'outils Chrome, cliquez sur l'icône des extensions puis épinglez l'extension.
 
